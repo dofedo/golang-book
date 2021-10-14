@@ -1,0 +1,10 @@
+"This file contains some of topics of the golang-book introduced in the website 'https://golang.org'"
+Table of contents:
+    8 Pointers 
+        8.1 The * and & operators
+        8.2 new
+    9 Structs and Interfaces 
+        9.1 Structs
+        9.2 Methods
+        9.3 Interfaces
+    
