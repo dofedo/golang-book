@@ -7,4 +7,9 @@ Table of contents:
         9.1 Structs
         9.2 Methods
         9.3 Interfaces
+    10 Concurrency
+        10.1 Goroutines
+        10.2 Channels
+    11 Packages
+    12 Testing
     
